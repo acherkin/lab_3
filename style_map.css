@@ -1,0 +1,15 @@
+header {
+    font-family: Futura, Trebuchet MS;
+    font-weight: bold condensed;
+    color: #AC2B37; 
+    font-size: 25px;
+    padding: 4px;
+}
+
+footer {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold condensed;
+    color: #AC2B37; 
+    font-size: 25px;
+    padding: 4px;
+}
